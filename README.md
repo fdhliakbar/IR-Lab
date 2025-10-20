@@ -1,1 +1,2 @@
-# IR-Lab
+# Information Retrieval
+
