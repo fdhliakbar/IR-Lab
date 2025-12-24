@@ -1,24 +1,12 @@
-# Laboratorium Information Retrieval (IR-Lab)
+# IR-Lab
 
-**Asprak:** `Muhamad Fadhli Akbar`
-**Deskripsi Mata Kuliah:**
-Repositori ini berfungsi sebagai pusat materi praktikum dan kode sumber untuk mata kuliah **Information Retrieval (IR)**. Tujuannya adalah untuk menyediakan lingkungan belajar yang terstruktur bagi mahasiswa untuk memahami dan mengimplementasikan konsep-konsep dasar hingga lanjutan dalam bidang temu kembali informasi.
+IR-Lab adalah kumpulan materi praktikum dan implementasi untuk mata kuliah Sistem Temu Balik Informasi. Repository ini dirancang untuk membantu mahasiswa memahami konsep-konsep dasar hingga lanjutan dalam Information Retrieval melalui implementasi praktis dan contoh kode yang mudah dipahami.
 
-Semua kode dan materi praktikum diorganisir berdasarkan nomor pertemuan (pertemuan) untuk memudahkan navigasi dan referensi.
+## Installasi
 
-## Panduan Penggunaan
+```bash
+git clone https://github.com/fdhliakbar/IR-Lab.git
 
-Kalian pake kode ini dengan mengunduh repositori ini dengan cara clone
+git pull origin main
 
-1.  **Clone Repositori:** Unduh semua materi ke komputer lokal Anda.
-    ```bash
-    git clone https://github.com/fdhliakbar/IR-Lab.git
-    ```
-2.  **Akses Materi:** Navigasi ke file notebook yang sesuai dengan pertemuan yang sedang berlangsung.
-3.  **Eksperimen:** Jalankan dan modifikasi kode di setiap notebook untuk memperdalam pemahaman konseptual.
-
-<img src="https://i.pinimg.com/originals/c2/2c/c8/c22cc88b41ec15f991044bf25cf8007c.gif" alt="Banner"/>
-
----
-
-_Dibuat dengan dedikasi untuk mendukung pembelajaran Information Retrieval._
+```
