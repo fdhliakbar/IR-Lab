@@ -1,6 +1,6 @@
 # Laboratorium Information Retrieval (IR-Lab)
 
-**Asprak:** [Muhamad Fadhli Akbar]
+**Asprak:** `Muhamad Fadhli Akbar`
 **Deskripsi Mata Kuliah:**
 Repositori ini berfungsi sebagai pusat materi praktikum dan kode sumber untuk mata kuliah **Information Retrieval (IR)**. Tujuannya adalah untuk menyediakan lingkungan belajar yang terstruktur bagi mahasiswa untuk memahami dan mengimplementasikan konsep-konsep dasar hingga lanjutan dalam bidang temu kembali informasi.
 
